@@ -1,4 +1,5 @@
-# 🌟 Robin Xavier — Business, Healthcare Data Scientist & Analyst
+# 🌟 # 🌟 Robin Xavier — Data Scientist | Business & Healthcare Analytics
+🔍 Currently working with Python, SQL, and machine learning tools to solve real-world healthcare and business problems.
 
 📍 Alappuzha, Kerala, India  
 📧 [professional.robinxavier@gmail.com](mailto:professional.robinxavier@gmail.com)  
@@ -6,12 +7,10 @@
 
 ---
 
-## 👋 About Me
-I’m a **Business & Healthcare Data Scientist** blending expertise in Business, Pharma, Healthcare, and Clinical Radiology with modern data science. My mission is to bridge Business, Healthcare, and AI by building transparent, impactful solutions that drive real-world value.  
-With nearly 10 years of experience across Sales, Pharma, Healthcare, and Radiology, I bring deep domain insight and a practical understanding of industry workflows—fueling data-driven innovation that resonates with both business and clinical stakeholders.
----
+👋 About Me
+I’m a Business & Healthcare Data Scientist blending expertise in business, pharma, healthcare, and clinical radiology with modern data science. My mission is to bridge business, healthcare, and AI by building transparent, impactful solutions that drive real-world value. With nearly 10 years of experience across sales, pharma, healthcare, and radiology, I bring deep domain insight and a practical understanding of industry workflows—fueling data-driven innovation that resonates with both business and clinical stakeholders.
 
-## 📂 Resume & Cover Letter
+## 📂 ## 📄 Portfolio Documents
 - 📄 [Download My Resume](./Robin_Xavier_Data_Scientist_Resume.pdf)  
 - 📝 [Cover Letter](./cover_letter_postal_plan.pdf)  
 
@@ -21,9 +20,10 @@ With nearly 10 years of experience across Sales, Pharma, Healthcare, and Radiolo
 - **Programming & Data**: Python, SQL, Pandas, EDA, Feature Engineering  
 - **Machine Learning**: Regression, Classification, XGBoost, Kaggle Projects  
 - **Healthcare Domain**: Medical Imaging, Tele-Radiology, Oncology  
-- **Statistics**: Biostatistics, Time Series, Multivariate Analysis (PGDAST ongoing)  
+- **Statistics**: Biostatistics, Time Series, Multivariate Analysis *(PGDAST ongoing)*  
 - **Linux**: Ubuntu, Fedora, Linux Mint  
-- **Experience** : Sales, Pharma, Healthcare & Radiology  
+- **Industry Experience**: Sales, Pharma, Healthcare & Radiology  
+
 ---
 
 ## 🌐 Connect With Me
@@ -34,12 +34,13 @@ With nearly 10 years of experience across Sales, Pharma, Healthcare, and Radiolo
 ---
 
 ## 📊 Featured Project
-**Prediction of 14 Chest X-Ray Diseases via DenseNet121**  
-- Dataset: NIH Chest X-Ray  
-- Model: DenseNet121  
-- [🔗 View Project on GitHub](https://github.com/robin-xavier-367777217)  
+**Prediction of 14 Chest X-Ray Diseases via DenseNet121**
+- 📁 Dataset: NIH Chest X-Ray (112,000+ images)
+- 🧠 Model: DenseNet121 with multi-label classification
+- 📈 Metrics: AUC, Precision, Recall across 14 pathologies
+- [🔗 View Project on GitHub](https://github.com/robin-xavier-367777217)
+
 
 ---
 
-✨ *Thank you for visiting my profile. I look forward to contributing to impactful Business & healthcare analytics projects for your Business & Firm !*  
-
+✨ Thanks for visiting! Let’s connect and collaborate on impactful Business & Healthcare analytics projects.
