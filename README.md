@@ -1,4 +1,4 @@
-# 🌟 Robin Xavier — Healthcare Data Scientist  
+# 🌟 Robin Xavier — Business, Healthcare Data Scientist & Analyst
 
 📍 Alappuzha, Kerala, India  
 📧 [professional.robinxavier@gmail.com](mailto:professional.robinxavier@gmail.com)  
@@ -7,14 +7,13 @@
 ---
 
 ## 👋 About Me
-I am a **Healthcare Data Scientist** blending clinical radiology expertise with modern data science.  
-My mission is to **bridge healthcare and AI** by building transparent, impactful solutions.
-
+I’m a **Business & Healthcare Data Scientist** blending expertise in Business, Pharma, Healthcare, and Clinical Radiology with modern data science. My mission is to bridge Business, Healthcare, and AI by building transparent, impactful solutions that drive real-world value.  
+With nearly 10 years of experience across Sales, Pharma, Healthcare, and Radiology, I bring deep domain insight and a practical understanding of industry workflows—fueling data-driven innovation that resonates with both business and clinical stakeholders.
 ---
 
 ## 📂 Resume & Cover Letter
 - 📄 [Download My Resume](./Robin_Xavier_Data_Scientist_Resume.pdf)  
-- 📝 [Sample Cover Letter](./cover_letter_postal_plan.pdf)  
+- 📝 [Cover Letter](./cover_letter_postal_plan.pdf)  
 
 ---
 
@@ -24,7 +23,7 @@ My mission is to **bridge healthcare and AI** by building transparent, impactful
 - **Healthcare Domain**: Medical Imaging, Tele-Radiology, Oncology  
 - **Statistics**: Biostatistics, Time Series, Multivariate Analysis (PGDAST ongoing)  
 - **Linux**: Ubuntu, Fedora, Linux Mint  
-
+- **Experience** : Sales, Pharma, Healthcare & Radiology  
 ---
 
 ## 🌐 Connect With Me
@@ -42,5 +41,5 @@ My mission is to **bridge healthcare and AI** by building transparent, impactful
 
 ---
 
-✨ *Thank you for visiting my profile. I look forward to contributing to impactful healthcare analytics projects!*  
+✨ *Thank you for visiting my profile. I look forward to contributing to impactful Business & healthcare analytics projects for your Business & Firm !*  
 
